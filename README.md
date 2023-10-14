@@ -1,4 +1,4 @@
-# VMware-tools
+# Install_auto_VMware-tools
 
 Welcome to my GitHub repository dedicated to automating the installation of VMware Tools, an essential component for improving the performance and functionality of virtual machines in a VMware environment. This repository contains scripts and resources designed to simplify and accelerate the VMware Tools installation process on different virtual platforms (linux, windows).
 
