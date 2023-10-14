@@ -1,6 +1,6 @@
 # VMware-tools
 
-Bienvenue sur mon GitHub dédié à l'automatisation de l'installation de VMware Tools, un composant essentiel pour améliorer les performances et la fonctionnalité des machines virtuelles dans un environnement VMware. Ce référentiel contient des scripts et des ressources conçus pour simplifier et accélérer le processus d'installation des VMware Tools sur différentes plates-formes virtuelles.
+Bienvenue sur mon dépot GitHub dédié à l'automatisation de l'installation de VMware Tools, un composant essentiel pour améliorer les performances et la fonctionnalité des machines virtuelles dans un environnement VMware. Ce référentiel contient des scripts et des ressources conçus pour simplifier et accélérer le processus d'installation des VMware Tools sur différentes plates-formes virtuelles (linux,windows).
 
 L'installation automatisée des VMware Tools est essentielle pour garantir une expérience fluide et optimale lorsque vous travaillez avec des machines virtuelles. Les scripts fournis ici sont conçus pour fonctionner de manière transparente sur différentes versions de VMware et sur divers systèmes d'exploitation invités, vous permettant d'optimiser vos machines virtuelles sans tracas.
 
