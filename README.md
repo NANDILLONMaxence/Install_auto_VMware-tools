@@ -1,11 +1,14 @@
 # VMware-tools
 
-Bienvenue sur mon dépot GitHub dédié à l'automatisation de l'installation de VMware Tools, un composant essentiel pour améliorer les performances et la fonctionnalité des machines virtuelles dans un environnement VMware. Ce référentiel contient des scripts et des ressources conçus pour simplifier et accélérer le processus d'installation des VMware Tools sur différentes plates-formes virtuelles (linux,windows).
+Welcome to my GitHub repository dedicated to automating the installation of VMware Tools, an essential component for improving the performance and functionality of virtual machines in a VMware environment. This repository contains scripts and resources designed to simplify and accelerate the VMware Tools installation process on different virtual platforms (linux, windows).
 
-L'installation automatisée des VMware Tools est essentielle pour garantir une expérience fluide et optimale lorsque vous travaillez avec des machines virtuelles. Les scripts fournis ici sont conçus pour fonctionner de manière transparente sur différentes versions de VMware et sur divers systèmes d'exploitation invités, vous permettant d'optimiser vos machines virtuelles sans tracas.
+Automated installation of VMware Tools is essential to ensure a smooth and optimal experience when working with virtual machines. The scripts provided here are designed to work seamlessly on different versions of VMware and on various guest operating systems, allowing you to optimise your virtual machines without hassle.
 
-Les VMware Tools offrent de nombreux avantages, notamment des performances améliorées, une meilleure intégration entre la machine hôte et la machine virtuelle, ainsi que des fonctionnalités avancées telles que le glisser-déposer de fichiers, le redimensionnement automatique de l'écran et bien plus encore. Avec ce référentiel, vous pouvez automatiser le processus d'installation et tirer pleinement parti de ces fonctionnalités.
+VMware Tools offer many benefits, including improved performance, better integration between host and virtual machine, and advanced features such as drag-and-drop files, automatic screen resizing and much more. With this repository, you can automate the installation process and take full advantage of these features.
 
-N'hésitez pas à explorer les scripts et les guides fournis dans ce référentiel pour simplifier et améliorer vos déploiements de machines virtuelles VMware. Si vous avez des questions ou des suggestions, n'hésitez pas à les partager. Votre contribution et votre expertise sont les bienvenues.
+Feel free to explore the scripts and guides provided in this repository to simplify and enhance your VMware virtual machine deployments. If you have any questions or suggestions, please don't hesitate to share them. We welcome your input and expertise.
 
-Prêt à améliorer vos machines virtuelles VMware avec une installation automatisée des VMware Tools ? Plongeons dans le monde de l'automatisation et de l'efficacité !
+Ready to improve your VMware virtual machines with an automated installation of VMware Tools? Let's dive into the world of automation and efficiency!
+
+# Install_VMwaretools
+  - Install_VMtools_v2
