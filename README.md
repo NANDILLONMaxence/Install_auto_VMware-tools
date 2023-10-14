@@ -11,4 +11,4 @@ Feel free to explore the scripts and guides provided in this repository to simpl
 Ready to improve your VMware virtual machines with an automated installation of VMware Tools? Let's dive into the world of automation and efficiency!
 
 # Install_VMwaretools
-  - Install_VMtools_v2
+  - 001_Install_VMtools_v2
