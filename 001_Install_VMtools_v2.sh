@@ -77,6 +77,6 @@ service vmware-tools restart
 service vmware-tools status
 echo " "
 echo "---------------------Version 2----------------------"
-echo "-------Create by NANDILLON Maxence for SDIS36-------"
+echo "------------Create by NANDILLON Maxence-------------"
 echo "----------------------------------------------------"
 
