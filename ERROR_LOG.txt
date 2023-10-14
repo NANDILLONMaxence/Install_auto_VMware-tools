@@ -1,0 +1,12 @@
+root@Debian-test-vmware:/tmp# ./Install_VMtools_v2.sh 
+The /mnt/cdrom directory already exists.
+Command "check_mount_dir" completed successfully.
+The VMware Tools image is not mounted. Editing in progress...
+mount: /mnt/cdrom: no support found in /dev/sr0.
+Error executing command "mount /dev/cdrom /mnt/cdrom". Error code : 32
+
+Error 32 : on your machine right click then click on Install VMware Tools ...
+
+
+
+
