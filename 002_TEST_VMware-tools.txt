@@ -2133,5 +2133,5 @@ oct. 14 16:56:43 Debian-test-vmware vmware-tools[4264]: [35B blob data]
 oct. 14 16:56:43 Debian-test-vmware systemd[1]: Started LSB: VMware Tools service.
 
 ---------------------Version 2----------------------
--------Create by NANDILLON Maxence for SDIS36-------
+-----------Create by NANDILLON Maxence--------------
 ----------------------------------------------------
