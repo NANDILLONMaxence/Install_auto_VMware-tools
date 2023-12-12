@@ -1,4 +1,4 @@
-# Install_auto_VMware-tools
+# Install auto VMware-tools
 
 Welcome to my GitHub repository dedicated to automating the installation of VMware Tools, an essential component for improving the performance and functionality of virtual machines in a VMware environment. This repository contains scripts and resources designed to simplify and accelerate the VMware Tools installation process on different virtual platforms (linux, windows).
 
@@ -10,5 +10,16 @@ Feel free to explore the scripts and guides provided in this repository to simpl
 
 Ready to improve your VMware virtual machines with an automated installation of VMware Tools? Let's dive into the world of automation and efficiency!
 
-# Install VMware-tools
-  - [001_Install_VMtools_v2](https://github.com/NANDILLONMaxence/Install_auto_VMware-tools/blob/main/001_Install_VMtools_v2.sh)
+## Install
+Clone repository Install_auto_docker on your Docker host:
+```bash
+git clone https://github.com/NANDILLONMaxence/Install_auto_VMware-tools.git
+chmod +x Install_auto_VMware-tools/*.sh
+cd Install_auto_VMware-tools
+```
+
+launch the script
+```bash
+./001_Install_VMtools_v2.sh
+```
+---
